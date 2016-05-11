@@ -123,3 +123,7 @@ You want to contribute to Pico? We really appreciate that! You can help make Pic
 [EditInlineDocs]: https://github.com/picocms/Pico/edit/master/content-sample/index.md
 [EditUserDocs]: https://github.com/picocms/Pico/tree/gh-pages/_docs
 [EditDevDocs]: https://github.com/picocms/Pico/tree/gh-pages/_development
+=======
+
+# tech-jump-guide
+Guide for Tech Jump course written with Pico.
