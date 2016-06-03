@@ -217,6 +217,9 @@ dd {
     width: 850px;
     margin: 0 auto;
 }
+.inner img {
+    width:100%;
+}
 
 #header {
     background: #2EAE9B;
