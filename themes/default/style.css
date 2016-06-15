@@ -220,6 +220,20 @@ dd {
 .inner img {
     width:100%;
 }
+figure {
+    display: inline-block;
+    vertical-align: top;
+    margin: 4%;
+}
+.small-media {
+    width: 24%;
+}
+.medium-media {
+    width: 50%;
+}
+figcaption {
+    color: #888;
+}
 
 #header {
     background: #2EAE9B;

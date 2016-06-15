@@ -95,7 +95,7 @@ Changing the `font-weight` to `600` for any element with the class of `brave` no
 
 ### Line Height
 
-Line height, the distance between two lines of text (often referred to as leading) is declared using the line-height property. The line-height property accepts all general length values, which we covered in Lesson 3, “[Getting to Know CSS](03).”
+Line height, the distance between two lines of text (often referred to as leading) is declared using the line-height property. The line-height property accepts all general length values, which we covered in Lesson 3, “[Getting to Know CSS](03-getting-to-know-css).”
 
 The best practice for legibility is to set the `line-height` to around one and a half times our `font-size` property value. This could be quickly accomplished by setting the `line-height` to `150%`, or just `1.5`. However, if we’re working with a baseline grid, having a little more control over our `line-height` using pixels may be preferable.
 
