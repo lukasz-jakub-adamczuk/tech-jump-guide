@@ -279,6 +279,12 @@ Let’s recap. Within this lesson we covered the following:
 
 Now that we know how to add lists to our pages, let’s add media to our pages, too. In the next chapter we’ll dive into embeddable media such as images, audio, and video.
 
+## In Practice
 
+Try to create webpage as much similar to screenshot below. It doesn't have to be pixel-perfect. Generally, focus on using CSS properties like `background`, `display`, `margin`, `padding`, `border` and `opacity` with specific values.
+
+Check Lesson 7 about [Setting backgrounds and gradints](07-setting-backgrounds-and-gradients).
+
+![cat-front](../imgs/practice/cat-front.png)
 
 
